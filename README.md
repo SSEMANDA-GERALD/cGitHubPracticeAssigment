@@ -2,6 +2,8 @@
 
 This repository contains eight beginner-level C programs covering basic output, input processing, decisions, loops, and interactive programming. Each program includes a title, textbook reference, problem summary, key concepts, a brief explanation of how it works, and a sample run.
 
+repo Link (https://github.com/SSEMANDA-GERALD/cGitHubPracticeAssigment.git)
+
 ## 1. Basic Output
 ### Program title and category
 Basic Output — Basic C Programming
